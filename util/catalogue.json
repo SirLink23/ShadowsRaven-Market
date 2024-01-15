@@ -1,0 +1,85 @@
+{
+    "outils": {
+        "channel": "1055933908992151612",
+        "name": "Equipement",
+        "emoji": "🔨",
+        "items": [
+            {
+                "name": "Pioche en Paladium",
+                "emoji": "<:pala_pickaxe:935917323297103922>",
+                "price": 1000,
+                "limite": "5",
+                "comptage": "/u",
+                "dispo": true,
+                "enchant": [
+                    {
+                        "name": "Effi 5 / U3",
+                        "price": 4000
+                    },
+                    {
+                        "name": "Effi 5 / U3 / F3",
+                        "price": 8500
+                    },
+                    {
+                        "name": "Effi 5 / U3 / Silk Touch",
+                        "price": 8000
+                    }
+                ]
+            },
+            {
+                "name": "Pelle en Paladium",
+                "emoji": "<:pala_shovel:935917323431346196>",
+                "price": 200,
+                "limite": "5",
+                "comptage": "/u",
+                "dispo": false,
+                "enchant": [
+                    {
+                        "name": "Effi 5 / U3",
+                        "price": 3500
+                    },
+                    {
+                        "name": "Effi 5 / U3 / Silk Touch",
+                        "price": 6500
+                    }
+                ]
+            },
+            {
+                "name": "Hache en Paladium",
+                "emoji": "<:pala_axe:935917323477463162>",
+                "price": 950,
+                "limite": "5",
+                "comptage": "/u",
+                "dispo": true,
+                "enchant": [
+                    {
+                        "name": "Effi 5 / U3",
+                        "price": 5000
+                    }
+                ]
+            },
+            {
+                "name": "Hammer",
+                "emoji": "<:pala_hammer:935917323037061121>",
+                "price": 2000,
+                "limite": "5",
+                "comptage": "/u",
+                "dispo": true,
+                "enchant": [
+                    {
+                        "name": "Speed 3",
+                        "price": 12500
+                    },
+                    {
+                        "name": "F2 / Smelt",
+                        "price": 10000
+                    },
+                    {
+                        "name": "F3 / Smelt",
+                        "price": 55000
+                    }
+                ]
+            }
+        ]
+    }
+}
